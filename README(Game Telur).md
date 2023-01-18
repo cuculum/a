@@ -5,4 +5,4 @@ line 15-28 pengaturan telur dan alat penangkap
 line 30-36 mengatur score
 line 38-40 mengatur kesempatan
 line 42-98 logika permainan
-line 100-106 pengaturan pergerakan telur dan alat penangkap
+line 100-106 pengaturan pergerakan alat penangkap
